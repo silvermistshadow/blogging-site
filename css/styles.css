@@ -1,12 +1,14 @@
 .birds {
 
   font-family: sans-serif;
-
+  margin-top: 12px;
+  margin-bottom: 12px;
 }
 
 .about {
-  
+
   font-family: serif;
   font-style: italic;
-
+  margin-top: 12px;
+  margin-bottom: 12px;
 }
